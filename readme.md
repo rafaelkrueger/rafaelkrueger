@@ -3,7 +3,7 @@
 I love building useful softwares.
 
 <div align="center">
-  <a href="https://github.com/wrspada02">
+  <a href="https://github.com/rafaelkrueger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkrueger&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkrueger&layout=compact&langs_count=7&theme=merko"/>
 </div>
