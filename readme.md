@@ -29,7 +29,7 @@
 <table align="center" width="115%">
   <tr>
     <td align="center" width="20%"><strong>Languages</strong></td>
-    <td align="center" width="30%"><strong>Frameworks & AI</strong></td>
+    <td align="center" width="30%"><strong>Frameworks</strong></td>
     <td align="center" width="30%"><strong>Databases & Vector</strong></td>
     <td align="center" width="35%"><strong>Cloud & DevOps</strong></td>
   </tr>
