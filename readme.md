@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Rafael%20Krueger&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=Rafael%20Krueger&fontSize=70&animation=fadeIn&fontColor=3D444D" />
 
   ### 🚀 Software Engineer | Backend • Cloud • Distributed Systems
   
@@ -28,8 +28,9 @@
 ### 📊 Performance & Ecosystem
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkrueger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkrueger&layout=donut&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkrueger&show_icons=true&bg_color=0D1117&border_color=3D444D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&border_radius=10"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkrueger&layout=donut&bg_color=0D1117&border_color=3D444D&title_color=58A6FF&text_color=C9D1D9&hide_border=false&langs_count=8&border_radius=10"/>
 </div>
 
 ---
@@ -79,7 +80,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelkrueger&theme=tokyonight&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelkrueger&bg_color=0D1117&color=3D444D&line=58A6FF&point=C9D1D9&area=true&hide_border=true" />
 </p>
 
 <div align="center">
