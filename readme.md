@@ -59,13 +59,15 @@
       <img src="https://img.shields.io/badge/MongoDB-1f1f1f?style=flat-square&logo=mongodb&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white" />
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Azure-1f1f1f?style=flat-square&logo=microsoftazure&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" />
-    </td>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Azure-1f1f1f?style=flat-square&logo=microsoftazure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/GCP-1f1f1f?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Terraform-1f1f1f?style=flat-square&logo=terraform&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=white" /><br/>
+</td>
   </tr>
 </table>
 
