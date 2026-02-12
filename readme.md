@@ -35,30 +35,30 @@
   </tr>
   <tr>
     <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PHP-1f1f1f?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-1f1f1f?style=flat-square&logo=openjdk&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C%23-1f1f1f?style=flat-square&logo=csharp&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PHP-1f1f1f?style=flat-square&logo=php&logoColor=white" />
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/NestJS-1f1f1f?style=flat-square&logo=nestjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Vue.js-1f1f1f?style=flat-square&logo=vuedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Angular-1f1f1f?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-1f1f1f?style=flat-square&logo=angular&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Pinecone-1f1f1f?style=flat-square&logo=pinecone&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MongoDB-1f1f1f?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinecone-1f1f1f?style=flat-square&logo=pinecone&logoColor=white" /><br/>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
