@@ -1,14 +1,14 @@
 <h1 align="center">Rafael Krueger</h1>
-<h3 align="center">Software Engineer since 2020</h3>
+<h3 align="center">Software Engineer | Backend • Cloud • Systems</h3>
 
 <p align="center">
-Building scalable and reliable software solutions.<br/>
-Focused on clean architecture, performance and continuous improvement.
+Building scalable and reliable software since 2020.<br/>
+Focused on clean architecture, distributed systems and cloud infrastructure.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Overview
 
 <div align="center">
   <a href="https://github.com/rafaelkrueger">
@@ -19,51 +19,50 @@ Focused on clean architecture, performance and continuous improvement.
 
 ---
 
-## 🚀 Tech Stack
+## Stack & Infrastructure
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+<p align="center">
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-222222?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-222222?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php&logoColor=white"/>
 
-### 🖥 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+  <br/><br/>
 
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+  <br/><br/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-222222?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+  <br/><br/>
+
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-222222?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-222222?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:rafaelkrueger565@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-📱 +55 19 99843-3468
++55 19 99843-3468
 </p>
-
----
-
-⭐ Always open to new challenges and collaborations.
