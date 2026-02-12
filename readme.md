@@ -76,7 +76,7 @@
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelkrueger&bg_color=0D1117&color=3D444D&line=58A6FF&point=C9D1D9&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelkrueger&bg_color=0D1117&color=3D444D&line=58A6FF&point=C9D1D9&area=true&hide_border=true&days=365" />
 </p>
 
 <div align="center">
