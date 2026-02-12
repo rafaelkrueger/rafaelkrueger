@@ -32,10 +32,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Backend & Frameworks</strong></td>
+    <td align="center" width="20%"><strong>Languages</strong></td>
+    <td align="center" width="35%"><strong>Frameworks</strong></td>
     <td align="center" width="25%"><strong>Databases</strong></td>
-    <td align="center" width="25%"><strong>Cloud & DevOps</strong></td>
+    <td align="center" width="20%"><strong>Cloud & DevOps</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -49,12 +49,19 @@
       <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FastAPI-1f1f1f?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-1f1f1f?style=flat-square&logo=nestjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vue.js-1f1f1f?style=flat-square&logo=vuedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Angular-1f1f1f?style=flat-square&logo=angular&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SQL_Server-1f1f1f?style=flat-square&logo=microsoftsqlserver&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-1f1f1f?style=flat-square&logo=mongodb&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Oracle-1f1f1f?style=flat-square&logo=oracle&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white" />
     </td>
