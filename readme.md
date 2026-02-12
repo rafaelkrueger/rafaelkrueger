@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Software Engineer | AI Engineer</h3>
+  <h3>Software Engineer</h3>
   <p>
     <strong>Building high-performance, scalable systems since 2020.</strong><br/>
     Specialized in architecture design, cloud-native solutions and resilient backend ecosystems.
