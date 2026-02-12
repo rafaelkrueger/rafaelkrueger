@@ -47,24 +47,26 @@
 </td>
 
 <td align="center" valign="top">
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/NestJS-1f1f1f?style=flat-square&logo=nestjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=white" />
-</td>
-<td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Vue.js-1f1f1f?style=flat-square&logo=vuedotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Angular-1f1f1f?style=flat-square&logo=angular&logoColor=white" />
-</td>
-</tr>
-</table>
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <strong>Frontend</strong><br/><br/>
+        <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Vue.js-1f1f1f?style=flat-square&logo=vuedotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Angular-1f1f1f?style=flat-square&logo=angular&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </td>
+      <td align="center" valign="top" width="33%">
+        <strong>Backend</strong><br/><br/>
+        <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/NestJS-1f1f1f?style=flat-square&logo=nestjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </td>
 
 <td align="center" valign="top">
