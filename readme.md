@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/Java-1f1f1f?style=flat-square&logo=openjdk&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C%23-1f1f1f?style=flat-square&logo=csharp&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Go-1f1f1f?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-1f1f1f?style=flat-square&logo=php&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
