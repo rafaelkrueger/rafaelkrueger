@@ -42,14 +42,16 @@
       <img src="https://img.shields.io/badge/Go-1f1f1f?style=flat-square&logo=go&logoColor=white" />
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/LangChain-1f1f1f?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-1f1f1f?style=flat-square&logo=openai&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/NestJS-1f1f1f?style=flat-square&logo=nestjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" />
       <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-1f1f1f?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vue.js-1f1f1f?style=flat-square&logo=vuedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Angular-1f1f1f?style=flat-square&logo=angular&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" /><br/>
