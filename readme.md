@@ -7,7 +7,7 @@
     Specialized in architecture design, cloud-native solutions and resilient backend ecosystems.
   </p>
 
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/SEU_USER_LINKEDIN">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -38,7 +38,6 @@
     <td align="center" width="15%"><strong>Cloud & DevOps</strong></td>
   </tr>
   <tr>
-    <!-- Languages -->
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Java-1f1f1f?style=flat-square&logo=openjdk&logoColor=white" /><br/>
@@ -47,18 +46,17 @@
       <img src="https://img.shields.io/badge/PHP-1f1f1f?style=flat-square&logo=php&logoColor=white" />
     </td>
 
-    <!-- Frameworks (split internally) -->
     <td align="center" valign="top">
       <table width="100%">
         <tr>
-          <td align="center" width="50%" valign="top">
+          <td align="center" valign="top">
             <img src="https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/.NET_Core-1f1f1f?style=flat-square&logo=.net&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/NestJS-1f1f1f?style=flat-square&logo=nestjs&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=white" />
           </td>
-          <td align="center" width="50%" valign="top">
+          <td align="center" valign="top">
             <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/React_Native-1f1f1f?style=flat-square&logo=react&logoColor=white" /><br/>
@@ -69,16 +67,15 @@
       </table>
     </td>
 
-    <!-- Databases (split internally) -->
     <td align="center" valign="top">
       <table width="100%">
         <tr>
-          <td align="center" width="50%" valign="top">
+          <td align="center" valign="top">
             <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/MySQL-1f1f1f?style=flat-square&logo=mysql&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/SQL_Server-1f1f1f?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
           </td>
-          <td align="center" width="50%" valign="top">
+          <td align="center" valign="top">
             <img src="https://img.shields.io/badge/MongoDB-1f1f1f?style=flat-square&logo=mongodb&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/Oracle-1f1f1f?style=flat-square&logo=oracle&logoColor=white" /><br/>
             <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=white" />
@@ -87,7 +84,6 @@
       </table>
     </td>
 
-    <!-- Cloud -->
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Azure-1f1f1f?style=flat-square&logo=microsoftazure&logoColor=white" /><br/>
