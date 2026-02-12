@@ -76,20 +76,9 @@
 </td>
 
 <td align="center" valign="top">
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="50%">
 <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Azure-1f1f1f?style=flat-square&logo=microsoftazure&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/GCP-1f1f1f?style=flat-square&logo=googlecloud&logoColor=white" />
-</td>
-<td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=white" />
-</td>
-</tr>
-</table>
 </td>
 
 </tr>
