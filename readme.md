@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=Rafael%20Krueger&fontSize=70&animation=fadeIn&fontColor=3D444D" />
-
-  ### 🚀 Software Engineer | Backend • Cloud • Distributed Systems
+  ### 🚀 Software Engineer
   
   **Building high-performance, scalable systems since 2020.** Specialized in architecture design, cloud-native solutions, and robust backend ecosystems.
 
@@ -22,16 +20,6 @@
 - 🔭 **Currently working on:** Distributed microservices and cloud scalability.
 - 📚 **Learning:** Advanced Go (Golang) and Terraform for IaC.
 - ⚡ **Focus:** Clean Architecture, SOLID, and TDD.
-
----
-
-### 📊 Performance & Ecosystem
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkrueger&show_icons=true&bg_color=0D1117&border_color=3D444D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&border_radius=10"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkrueger&layout=donut&bg_color=0D1117&border_color=3D444D&title_color=58A6FF&text_color=C9D1D9&hide_border=false&langs_count=8&border_radius=10"/>
-</div>
 
 ---
 
