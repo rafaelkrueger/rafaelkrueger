@@ -26,14 +26,13 @@
 
 ## Technical Stack
 
-<table align="center" width="100%">
+<table align="center" width="130%">
   <tr>
     <td align="center" width="25%"><strong>Languages</strong></td>
     <td align="center" width="35%"><strong>Frameworks</strong></td>
     <td align="center" width="25%"><strong>Databases</strong></td>
-    <td align="center" width="15%"><strong>Cloud & DevOps</strong></td>
+    <td align="center" width="25%"><strong>Cloud & DevOps</strong></td>
   </tr>
-
   <tr>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=white" /><br/>
