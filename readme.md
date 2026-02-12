@@ -1,3 +1,31 @@
+<div align="center">
+  <h3>Software Engineer | AI Engineer</h3>
+  <p>
+    <strong>Building high-performance, scalable systems since 2020.</strong><br/>
+    Specialized in architecture design, cloud-native solutions and resilient backend ecosystems.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/rafael-krueger-6169911a9/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:rafaelkrueger565@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+## Professional Overview
+
+- **Current Focus:** Distributed microservices, high-availability systems and cloud scalability
+- **Advancing In:** AI Engineering (LLMs, LangChain), RAG Architectures and MLOps
+- **Engineering Principles:** Clean Architecture, SOLID, Test-Driven Development
+
+---
+
+## Technical Stack
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%"><strong>Languages</strong></td>
@@ -42,3 +70,16 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelkrueger&bg_color=0D1117&color=3D444D&line=58A6FF&point=C9D1D9&area=true&hide_border=true" />
+</p>
+
+<div align="center">
+  <sub>Contact: <strong>rafaelkrueger565@gmail.com</strong> | <strong>+55 19 99843-3468</strong></sub>
+</div>
