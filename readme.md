@@ -19,7 +19,7 @@
 ## Professional Overview
 
 - **Current Focus:** Distributed microservices, high-availability systems and cloud scalability
-- **Advancing In:** Go (Golang) and Terraform for Infrastructure as Code
+- **Advancing In:** AI Engineering (LLMs, LangChain), RAG Architectures and MLOps
 - **Engineering Principles:** Clean Architecture, SOLID, Test-Driven Development
 
 ---
