@@ -64,9 +64,6 @@
       <img src="https://img.shields.io/badge/GCP-1f1f1f?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Terraform-1f1f1f?style=flat-square&logo=terraform&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" />
     </td>
   </tr>
 </table>
